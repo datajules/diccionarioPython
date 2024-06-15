@@ -10,4 +10,6 @@ El video con la guía y explicación se encuentra en :
 
 [![Imagen del video de YouTube]([URL_DE_LA_MINIATURA](https://www.youtube.com/embed/8wlc2KIYVUg))](https://www.youtube.com/watch?v=8wlc2KIYVUg)
 
+<a href="https://www.youtube.com/watch?v=8wlc2KIYVUg"><img src="https://www.youtube.com/embed/8wlc2KIYVUg" style="height: 50%; width:50%;"/></a>
+
 
